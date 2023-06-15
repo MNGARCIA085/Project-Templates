@@ -6,6 +6,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Pelis from "./pages/Pelis";
 
 
+//https://mherman.org/blog/dockerizing-a-react-app/
+//https://www.erraticbits.ca/post/2021/fastapi/
 
 
 function App() {
